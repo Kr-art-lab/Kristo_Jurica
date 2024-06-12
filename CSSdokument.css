@@ -1,0 +1,29 @@
+@charset "uft-8";
+/*CSS dokument*/
+
+p{
+	color: black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+
+h1, h2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:red;
+}
+
+body{
+	background-image: url("slike04.jpg")
+	background-color: turquise
+	opacity: 0.3 (30% visibility = 70% transparencija)
+	
+}
+ <style>
+body {
+  background-image: url("slike04.jpg");
+}
+</style> 
